@@ -1,19 +1,19 @@
-## Custom Adminer
+# Custom Adminer
 
 Download Original [Adminer](https://www.adminer.org/) From Here:
 
-## Change Color
+#### Change Color
 
-You can change color in index.php file
+You can change color in **index.php** file
 
-```
+```php
 $plugins = [
     new AdminerTheme("default-green")
     ...
 ];
 ```
 
-### Available Colors
+#### Available Colors
 
 | Name      | Value            |
 | --------- | ---------------- |
