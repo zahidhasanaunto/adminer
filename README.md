@@ -1,2 +1,1 @@
-# adminer
-Custom Adminer
+# Custom Adminer
