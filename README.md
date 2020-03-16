@@ -1,6 +1,6 @@
 # Custom Adminer
 
-Download Original [Adminer](https://www.adminer.org/) From Here:
+Download Original [Adminer](https://www.adminer.org/) From Here
 
 #### Change Color
 
